@@ -30,3 +30,7 @@ go get
 
 # goto influxdb to select data
 ```
+## Todolist
+
+ 1. alarm
+ 2. web
